@@ -1,4 +1,4 @@
-package praktikum09;
+package praktikum09.generic;
 
 public class Main {
     public static void main(String[] args){
